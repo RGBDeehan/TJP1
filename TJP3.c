@@ -1,3 +1,5 @@
+// P-3. Write a program to input radius and calculate area of circle and circumference of a circle. Area of circle = 3.14 .*r .*r, Circumference of circle = 2 .*3.14 .*r. //
+
 #include <stdio.h>
 #define PI 3.14159
 int main() {
