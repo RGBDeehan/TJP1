@@ -1,3 +1,5 @@
+// P-2. Write a program to input length and breadth of a rectangle and calculate its area. Area=Length*Breadth. //
+
 #include <stdio.h>
 int main() {
 float length, breadth, area;
