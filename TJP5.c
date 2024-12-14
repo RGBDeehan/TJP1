@@ -1,3 +1,5 @@
+// P-5. Write a program to input principal, rate and time and calculate Simple Interest. SimpleInterest=PrincipalRateTime/100 //
+
 #include <stdio.h>
 int main() {
 float principal, rate, time,simpleinterest;
