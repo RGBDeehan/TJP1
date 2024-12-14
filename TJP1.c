@@ -1,3 +1,5 @@
+// P-1. Write a program to input a number and calculate its square and cube. //
+
 #include <stdio.h>
 int main() {
     float number, square, cube;
