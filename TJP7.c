@@ -1,3 +1,5 @@
+// P-7. Write a program to Input distance (in km) and convert in meter, feet, inches and centimeter. [ meters = km * 1000; centimeters = km * 100000; inches = km * 39370.1; feet = km * 3280.84;] //
+
 #include <stdio.h>
 int main() {
 float km, meters, feet, inches, centimeters;
